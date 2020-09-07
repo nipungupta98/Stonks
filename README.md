@@ -18,8 +18,8 @@ Required libraries:
 
    Installation instructions:
     
-   1. Using pip: pip install yfinance --upgrade --no-cache-dir
-   2. Using conda: conda install -c ranaroussi yfinance
+   1. Using pip: ```pip install yfinance --upgrade --no-cache-dir```
+   2. Using conda: ```conda install -c ranaroussi yfinance```
 
 
 2) Numpy
