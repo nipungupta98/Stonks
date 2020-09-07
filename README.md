@@ -14,7 +14,9 @@ Employed technical indicators:
 
 Required libraries:
 
-1) yfinance:
+1) sklearn
+
+2) yfinance:
 
    Installation instructions:
     
@@ -22,8 +24,8 @@ Required libraries:
    2. Using conda: ```conda install -c ranaroussi yfinance```
 
 
-2) Numpy
-3) Pandas
+3) Numpy
+4) Pandas
 
 Future scope: Adding more ta indicators, adding LSTM (RNN models), accuracy/loss matrix.
 
